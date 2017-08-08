@@ -8,5 +8,8 @@
 
 * [Strings](section-1-the-basics/strings.md)
 
+## Section 2
 
+* test 1
+* test 2
 
