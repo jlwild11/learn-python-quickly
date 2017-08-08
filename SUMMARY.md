@@ -6,7 +6,7 @@
 
 ## Section 1: The Basics
 
-*                    [Strings](section-1-the-basics/strings.md)
+> * [Strings](section-1-the-basics/strings.md)
 
 
 
