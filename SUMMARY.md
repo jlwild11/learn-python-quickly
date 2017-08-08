@@ -11,5 +11,5 @@
 ## Section 2
 
 * [test 1](section-2/test-1.md)
-* [test 2](section-2/test-2.md)
+  * [test 2](section-2/test-2.md)
 
