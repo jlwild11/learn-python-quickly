@@ -3,8 +3,11 @@
 ## Learn Python Quickly
 
 * [Introduction](README.md)
-* [Section 1: The Basics](section-1/sect-1-intro.md)
+* [Section 1: The Basics](section-1-the-basics/00-section-1-intro.md)
   * [Strings](section-1-the-basics/strings.md)
+  * [Functions](section-1-the-basics/functions.md)
+  * [if, else, elif](section-1-the-basics/if-else-elif.md)
+  * [Lists](section-1-the-basics/lists.md)
 
 ## Section 2
 
