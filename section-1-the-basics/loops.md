@@ -8,8 +8,6 @@ for name in names:
     print(name.title())
 ```
 
-
-
 ```
 def list_sum(input_list):
     sum = 0
@@ -27,6 +25,18 @@ print("expected result: 6, actual result: {}".format(test1))
 
 test2 = list_sum([-1, 0, 1])
 print("expected result: 0, actual result: {}".format(test2))
+```
+
+## While Loops
+
+```
+card_deck = [4, 11, 8, 5, 13, 2, 8, 10]
+hand = []
+
+while sum(hand) <= 17:
+    hand.append(card_deck.pop())
+
+print(hand)
 ```
 
 
