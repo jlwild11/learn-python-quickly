@@ -9,6 +9,7 @@
   * [if, else, elif](section-1-the-basics/if-else-elif.md)
   * [Lists](section-1-the-basics/lists.md)
   * [Loops](section-1-the-basics/loops.md)
+  * [Sets](section-1-the-basics/sets.md)
 
 ## Section 2
 
