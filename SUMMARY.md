@@ -10,6 +10,7 @@
   * [Lists](section-1-the-basics/lists.md)
   * [Loops](section-1-the-basics/loops.md)
   * [Sets](section-1-the-basics/sets.md)
+  * [Dictionaries](section-1-the-basics/dictionaries.md)
 
 ## Section 2
 
