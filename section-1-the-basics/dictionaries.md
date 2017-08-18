@@ -58,5 +58,24 @@ for album_title in Beatles_Discography:
     print("title: {}, year: {}".format(album_title, Beatles_Discography[album_title]))
 ```
 
+But what if we wanted to store more information about each element, like their weight and symbol?
+
+```
+elements = {'hydrogen': {'number': 1, 'weight': 1.00794, 'symbol': 'H'},
+            'helium': {'number': 2, 'weight': 4.002602, 'symbol': 'He'}}
+```
+
+```
+>>> print(elements['helium'])
+{'number': 2, 'symbol': 'He', 'weight': 4.002602}
+>>> print(elements.get('unobtainium', 'There\'s no such element!'))
+There's no such element!
+```
+
+```
+>>> print(elements['helium']['weight'])
+4.002602
+```
+
 
 
