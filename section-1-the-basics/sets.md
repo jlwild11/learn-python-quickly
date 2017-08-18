@@ -10,5 +10,17 @@ You can add elements to sets, but you don't use `append`method like lists, inste
 country_set.add("Florin")
 ```
 
+We iterate over sets like this:
+
+```
+>>> colors = set(['Pthalo Blue', 'Indian Yellow', 'Sap Green'])
+>>> for color in colors:
+...    print(color)
+...
+Indian Yellow
+Sap Green
+Pthalo Blue
+```
+
 
 
