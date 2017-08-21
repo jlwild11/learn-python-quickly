@@ -11,6 +11,9 @@
   * [Loops](section-1-the-basics/loops.md)
   * [Sets](section-1-the-basics/sets.md)
   * [Dictionaries](section-1-the-basics/dictionaries.md)
+  * [Tuples](section-1-the-basics/tuples.md)
+  * [Default Arguments](section-1-the-basics/default-arguments.md)
+  * [Files](section-1-the-basics/files.md)
 
 ## Section 2
 
