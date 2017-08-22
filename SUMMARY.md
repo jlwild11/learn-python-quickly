@@ -14,6 +14,7 @@
   * [Tuples](section-1-the-basics/tuples.md)
   * [Default Arguments](section-1-the-basics/default-arguments.md)
   * [Files](section-1-the-basics/files.md)
+  * [Standard Library and Modules](section-1-the-basics/standard-library-and-modules.md)
 
 ## Section 2
 

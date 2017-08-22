@@ -8,8 +8,6 @@ Open in read only.
 f = open('/my_path/my_file.txt','r')
 ```
 
-
-
 ## Access and read a file
 
 ```
@@ -22,8 +20,6 @@ file_data = f.read()
 f.close()
 ```
 
-
-
 ## Write to a file
 
 ```
@@ -35,6 +31,15 @@ Caution: once you open a file in writing mode, anything that it had contained pr
 ```
 f.write("Hello World!")
 f.close()
+```
+
+# `with` {#-with-}
+
+Python allows you to open a file, do operations on it, and automatically close it afterwards using`with`.
+
+```
+>>> with open('/my_path/my_file.txt','r') as f:
+>>>   file_data = f.read()
 ```
 
 
